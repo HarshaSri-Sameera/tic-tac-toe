@@ -1,3 +1,4 @@
+deployed link - https://tic-tac-toe-game-darkfire.netlify.app/ play it!
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
