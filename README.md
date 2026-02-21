@@ -1,4 +1,4 @@
-deployed link - https://tic-tac-toe-game-darkfire.netlify.app/ play it!
+deployed link - <a href="[http://example.com/](https://tic-tac-toe-game-darkfire.netlify.app/)" target="_blank">https://tic-tac-toe-game-darkfire.netlify.app/</a> play it!
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
